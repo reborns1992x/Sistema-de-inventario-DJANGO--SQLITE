@@ -1,0 +1,9 @@
+Django==5.0.4
+psycopg2-binary==2.9.9
+pip==24.0
+python-dotenv==1.0.1
+python-decouple==3.8
+asgiref==3.8.1
+setuptools==65.5.0
+tzdata==2024.1
+Pillow==10.3.0
